@@ -1,6 +1,8 @@
 
 <div align='center'> 
 
+![](https://i.imgur.com/q0A5GpZ.png)
+
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Bebas+Neue&size=69&duration=3000&pause=1000&color=CCDBE4&center=true&vCenter=true&width=750&height=60&lines=Uniek+Development;Script+developer+for+fivem;Front-End+Web+Developer)](https://git.io/typing-svg)
   
 # 💻 My Skills:
